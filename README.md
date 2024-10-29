@@ -1,5 +1,5 @@
 # Ссылки 
-| Plugin | README |
+| Название | Ссылки на папки в диске |
 | ------ | ------ |
 | ИРПСО | [Перейти](https://disk.yandex.ru/d/XxnVIy-WFur_SA) |
 | МДК.04.01 | [Перейти](https://disk.yandex.ru/d/X85NmZ22iZE7Kw) |
